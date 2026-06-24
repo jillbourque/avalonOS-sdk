@@ -1,0 +1,43 @@
+avalonOS SDK — Documentation License & Notice
+
+Copyright © 2026 Avalon Spatial Inc. All rights reserved.
+
+This repository contains documentation and example code for the avalonOS SDK
+(the "Documentation"). The avalonOS SDK, together with its hosted services,
+software, APIs, models, and avatar technology (collectively, the "Service"), is
+a proprietary, commercial product of Avalon Spatial Inc., made available to
+customers under a separate agreement and the terms published at
+https://avalonos.com.
+
+PERMISSION
+
+You may read, reference, and reproduce the code examples and snippets contained
+in this Documentation for the sole purpose of building and operating your own
+application that integrates with the Service through an authorized avalonOS
+account.
+
+RESTRICTIONS
+
+1. The Documentation itself — its text, structure, and prose — may not be
+   republished, sold, sublicensed, or redistributed as a standalone work, in
+   whole or in substantial part, without prior written permission from
+   Avalon Spatial Inc.
+
+2. No license or right is granted in or to the Service itself. The avalonOS SDK
+   bundle, APIs, hosted infrastructure, models, and avatars remain the exclusive
+   property of Avalon Spatial Inc. Access to the Service requires a valid
+   account; request access at https://avalonos.com/access.
+
+3. "avalonOS" and associated names and logos are trademarks of
+   Avalon Spatial Inc. Nothing in this notice grants any trademark rights.
+
+NO WARRANTY
+
+THE DOCUMENTATION IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS
+FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT. IN NO EVENT SHALL AVALON SPATIAL
+INC. BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY ARISING FROM, OUT OF,
+OR IN CONNECTION WITH THE DOCUMENTATION OR ITS USE.
+
+For licensing questions, contact Avalon Spatial Inc. via
+https://avalonos.com/contact.
